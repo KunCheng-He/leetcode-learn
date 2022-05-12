@@ -1,11 +1,6 @@
 *
-!*.c
-!*.cpp
-!*.cxx
-!*.cc
-!*.h
-!Makefile
-!.gitignore
-!*.py
-!*.png
-!*.jpg
+!*.*
+!*/
+
+/.vscode
+
