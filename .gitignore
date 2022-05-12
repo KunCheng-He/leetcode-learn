@@ -7,4 +7,5 @@
 !Makefile
 !.gitignore
 !*.py
-!*.md
+!*.png
+!*.jpg
