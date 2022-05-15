@@ -5,5 +5,7 @@
 ## 介绍
 算法菜鸟刷Leetcode的代码，我将自己同步到这，做个备份和自己的思路汇总。
 
-## 备注
-我想在每个文件夹下写一个md来记录，好像提交不上来
+## 目录
+
+* 初级算法
+  * [数组](https://gitee.com/byack/leetcode-learn/tree/master/初级算法/数组)
