@@ -8,4 +8,4 @@
 ## 目录
 
 * 初级算法
-  * [数组](https://gitee.com/byack/leetcode-learn/tree/master/初级算法/数组)
+  * [数组](https://github.com/byack/leetcode-learn/tree/master/初级算法/数组)
